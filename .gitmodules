@@ -1,0 +1,3 @@
+[submodule "vendor.bash/github.com/reconquest/import.bash"]
+	path = vendor.bash/github.com/reconquest/import.bash
+	url = https://github.com/reconquest/import.bash
